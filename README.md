@@ -1,4 +1,4 @@
-# background_geolocation
+# foreground_geolocation
 
 A new Flutter project.
 
